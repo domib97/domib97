@@ -18,7 +18,7 @@ web3, DAO, metaverse, NFT, eUTXO, proof-of-stake, smart contracts.
 Before  my apprenticeship as a systems engineer at USU, I studied 4 semesters aerospace engineering at
 FH Aachen - University of Applied Sciences and after that 6 semesters electrical engineering. 
 
-I was not happy about my current state of living and learning so I someday decided to join the SWITCH-project that originated here in Aix-la-Chapelle to begin my 3 year long system-engineer-training as a college dropout in the german dual education system.
+I was not happy about my current state of living and learning so I someday decided to join the SWITCH-project that originated here in Aix-la-Chapelle to begin my 3 year long training as a college dropout in the german dual education system.
 
 I'm looking forward to shape the IT-future with all the friendly people I will meet in the the next time!
 
